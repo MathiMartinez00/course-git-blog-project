@@ -1,3 +1,5 @@
+# Feature number 2
+
 # Version Control with Git
 
 In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
